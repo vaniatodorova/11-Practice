@@ -1,0 +1,10 @@
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\bin\Debug\GuessingNumberWindowsForms.exe.config
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\bin\Debug\GuessingNumberWindowsForms.exe
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\bin\Debug\GuessingNumberWindowsForms.pdb
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.csprojAssemblyReference.cache
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.Form1.resources
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.Properties.Resources.resources
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.csproj.GenerateResource.cache
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.csproj.CoreCompileInputs.cache
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.exe
+F:\11a praktika\GuessingNumber\GuessingNumberWindowsForms\obj\Debug\GuessingNumberWindowsForms.pdb

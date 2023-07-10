@@ -1,0 +1,10 @@
+G:\11a praktika\GuessingNumber\DigitalClock\bin\Debug\DigitalClock.exe.config
+G:\11a praktika\GuessingNumber\DigitalClock\bin\Debug\DigitalClock.exe
+G:\11a praktika\GuessingNumber\DigitalClock\bin\Debug\DigitalClock.pdb
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.csprojAssemblyReference.cache
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.Form1.resources
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.Properties.Resources.resources
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.csproj.GenerateResource.cache
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.csproj.CoreCompileInputs.cache
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.exe
+G:\11a praktika\GuessingNumber\DigitalClock\obj\Debug\DigitalClock.pdb

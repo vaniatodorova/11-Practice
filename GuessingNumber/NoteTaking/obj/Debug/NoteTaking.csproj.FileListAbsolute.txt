@@ -1,0 +1,10 @@
+F:\11a praktika\GuessingNumber\NoteTaking\bin\Debug\NoteTaking.exe.config
+F:\11a praktika\GuessingNumber\NoteTaking\bin\Debug\NoteTaking.exe
+F:\11a praktika\GuessingNumber\NoteTaking\bin\Debug\NoteTaking.pdb
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.csprojAssemblyReference.cache
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.Form1.resources
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.Properties.Resources.resources
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.csproj.GenerateResource.cache
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.csproj.CoreCompileInputs.cache
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.exe
+F:\11a praktika\GuessingNumber\NoteTaking\obj\Debug\NoteTaking.pdb

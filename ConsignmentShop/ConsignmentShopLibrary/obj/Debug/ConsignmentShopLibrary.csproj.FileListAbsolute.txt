@@ -1,0 +1,6 @@
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.dll
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\bin\Debug\ConsignmentShopLibrary.pdb
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csprojAssemblyReference.cache
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.csproj.CoreCompileInputs.cache
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.dll
+G:\11a praktika\ConsignmentShop\ConsignmentShopLibrary\obj\Debug\ConsignmentShopLibrary.pdb

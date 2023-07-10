@@ -1,0 +1,10 @@
+G:\11a praktika\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+G:\11a praktika\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+G:\11a praktika\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
