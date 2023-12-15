@@ -8,3 +8,13 @@ G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
 G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
 G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.exe
 G:\11a praktika\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\bin\Debug\ChatApp.exe.config
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\bin\Debug\ChatApp.exe
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\bin\Debug\ChatApp.pdb
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.csprojAssemblyReference.cache
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.Form1.resources
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.Properties.Resources.resources
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.GenerateResource.cache
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.csproj.CoreCompileInputs.cache
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.exe
+G:\.Vania11a#4\practice-11a-2023\ChatApp\ChatApp\obj\Debug\ChatApp.pdb
